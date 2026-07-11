@@ -1,0 +1,9 @@
+POST http://localhost:3003/api/blogs/
+Content-Type: application/json
+
+{
+  "title": "Sunny Times",
+  "author": "Bertha Haantinga",
+  "url": "example.com/blog/sunnl",
+  "likes": 5
+}
