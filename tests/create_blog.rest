@@ -1,9 +1,0 @@
-POST http://localhost:3003/api/blogs/
-Content-Type: application/json
-
-{
-  "title": "How to cook oxtail",
-  "author": "Teddy Mumbi",
-  "url": "example.com/blog/oxct",
-  "likes": 49
-}
